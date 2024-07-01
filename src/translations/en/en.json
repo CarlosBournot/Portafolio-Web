@@ -1,0 +1,50 @@
+{
+  "navbarHome": "Home",
+  "navbarProjects": "Projects",
+  "navbarAbout": "About me",
+  "navbarTechnologies": "Technologies",
+  "navbarEducation": "Education",
+  "navbarContact": "Contact",
+
+  "navbarSubHome": "Back to home?",
+  "navbarSubProjects": "See what I have done",
+  "navbarSubAbout": "Know who I am",
+  "navbarSubTechnologies": "This is what I handle",
+  "navbarSubEducation": "Where I got my knowledge",
+  "navbarSubContact": "Let's talk",
+
+
+  "headerTitle": "Software Developer",
+  "headerDescription": "Passionate about software development, I demonstrate my ability to merge design and technology in the creation of captivating experiences.",
+  "resumeButton": "Resume",
+
+
+  "projectsTitle": "Projects.",
+  "projectsButton": "See more projects",
+
+  "homeProjectButtonm": "Home",
+
+  "aboutTitle": "About me.",
+  "aboutDescription1": "I am a developer currently based in Santa Fe, Argentina. During my learning process, I have developed teamwork, communication, leadership and problem solving skills, either working in a team or individually.",
+  "aboutDescription2": "I have always been interested in solving problems, standing out as someone who enjoys taking on challenges. When I discovered the world of development, I embraced the opportunity to pursue it. My goal is to keep advancing in the programming field, continually growing and adding value.",
+
+  "technologiesTitle": "Technologies.",
+  "technologiesTools": "Tools",
+
+  "educationTitle": "Education.",
+
+  "contactTitle": "Contact me.",
+  "contactNameLabel": "First name:",
+  "contactLastNameLabel": "Last Name",
+  "contactEmailLabel": "Your email:",
+  "contactSubjectLabel": "Subject:",
+  "contactMessageLabel": "Message:",
+  "submitButton": "Send",
+  
+  "successMessage": "The email has been sent successfully!",
+
+  "formNameValidation": "Name is required",
+
+  "footerRights": "All Rights Reserved."
+}
+  
