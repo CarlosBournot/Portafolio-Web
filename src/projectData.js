@@ -1,20 +1,22 @@
 // projectData.js
 
 const projects = [
-    /*
+    
     {
-      title: "Entertainment Web App",
-      image: "./images/entertainment-web-app.png",
-      githubLink: "https://github.com/Miguelaeb/AluraFlix",
-      liveLink: "https://alura-flix-beige.vercel.app/",
+      title: "Interactive Board",
+      image: "/image/pizarra-interactiva.jpeg",
+      githubLink: "https://github.com/CarlosBournot/Pizarra_Interactiva",
+      liveLink: "https://interactive-board.netlify.app/",
     },
+    
     {
-      title: "AluraGeek",
-      image: "./images/AluraGeek__preview.png",
-      githubLink: "https://github.com/Miguelaeb/aluraGeek",
+      title: "Portafolio",
+      image: "/image/portfolio.jpeg",
+      githubLink: "https://github.com/CarlosBournot/Portafolio-Web",
       liveLink:
-        "https://alura-geek-gamma-ivory.vercel.app/?vercelToolbarCode=xGM-LFUfcR1CoUo",
-    },
+        "https://carlos-bournot.netlify.app",
+    }
+    /*
     {
       title: "Portfolio",
       image: "./images/portafolio.png",

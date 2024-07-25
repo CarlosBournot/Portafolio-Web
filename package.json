@@ -12,6 +12,7 @@
   "dependencies": {
     "@formspree/react": "^2.5.1",
     "body-parser": "^1.20.2",
+    "caniuse-lite": "^1.0.30001643",
     "classnames": "^2.3.2",
     "formik": "^2.4.5",
     "i18next": "^23.7.6",
